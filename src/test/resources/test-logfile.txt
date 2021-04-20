@@ -1,0 +1,21 @@
+{"id":"test-scsmbstgra", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495212}
+{"id":"test-scsmbstgrb", "state":"STARTED",
+"timestamp":
+1491377495213
+}
+{"id":"test-scsmbstgrc", "state":"FINISHED", "timestamp":1491377495218}
+{"id":"test-scsmbstgra", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495217}
+{"id":"test-scsmbstgrc", "state":"STARTED", "timestamp":1491377495210}
+{"id":"test-scsmbstgrb", "state":"FINISHED", "timestamp":1491377495216}
+{"id":"test-scsmbstgrd", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495212}
+{"id":"test-scsmbstgrd", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495217}
+{"id":"test-scsmbstgre", "state":"STARTED","timestamp":1491377495213}
+{"id":"test-scsmbstgre", "state":"FINISHED", "timestamp":1491377495216}
+{"id":"test-scsmbstgrf", "state":"FINISHED", "timestamp":1491377495218}
+{"id":"test-scsmbstgrf", "state":"STARTED", "timestamp":1491377495210}
+{"id":"test-scsmbstgrg", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495212}
+{"id":"test-scsmbstgrg", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495217}
+{"id":"test-scsmbstgrh", "state":"STARTED","timestamp":1491377495213}
+{"id":"test-scsmbstgrh", "state":"FINISHED", "timestamp":1491377495216}
+{"id":"test-scsmbstgri", "state":"FINISHED", "timestamp":1491377495218}
+{"id":"test-scsmbstgri", "state":"STARTED", "timestamp":1491377495210}
